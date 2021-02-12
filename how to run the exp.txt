@@ -1,0 +1,3 @@
+First download dataset:
+MPI3D dataset: https://github.com/rr-learning/disentanglement_dataset
+Then use train.py to run RSD in MPI3D. 
